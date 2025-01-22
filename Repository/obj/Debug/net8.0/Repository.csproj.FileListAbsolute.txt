@@ -50,3 +50,4 @@ C:\Users\zorlo\Downloads\JuneExam\Repository\obj\Debug\net8.0\refint\Repository.
 C:\Users\zorlo\Downloads\JuneExam\Repository\obj\Debug\net8.0\Repository.pdb
 C:\Users\zorlo\Downloads\JuneExam\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
 C:\Users\zorlo\Downloads\JuneExam\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\zorlo\Downloads\JuneExam\Repository\obj\Debug\net8.0\Repository.sourcelink.json

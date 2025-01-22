@@ -14,12 +14,14 @@ namespace Repository.Implementation
     {
         private readonly ApplicationDbContext context;
         private DbSet<T> entities;
+        private DbSet<HealthExamination> examEntities;
         //string errorMessage = string.Empty;
 
         public Repository(ApplicationDbContext context)
         {
             this.context = context;
             entities = context.Set<T>();
+            examEntities = context.Set<HealthExamination>();
         }
         public IEnumerable<T> GetAll()
         {
@@ -105,6 +107,14 @@ namespace Repository.Implementation
             entities.AddRange(entities);
             context.SaveChanges();
             return entities;
+        }
+
+        public HealthExamination GetDetails(BaseEntity id)
+        {
+            return examEntities
+                .Include(x => x.Polyclinic)
+                .Include(x => x.Employee)
+                .SingleOrDefaultAsync(x => x.Id == id.Id).Result;
         }
     }
 

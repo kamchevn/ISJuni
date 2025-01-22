@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "10unInwz8JqPTN4Rnqm/oyLLj2aPriTh+9g10FEpYyl8in654XHUO5e6Fi4d6weCfiLMOnUm11MVFy/iNKa1hw==",
+  "dgSpecHash": "uiPqP1+ANmpNwnfPmsQ6zILIwRn1ewfxWReEmPSs3M9kbw4F6N1x06RpZXu/9Aadwm2YFitreVHUdlOysKkfQw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Web.csproj",
   "expectedPackageFiles": [
@@ -61,6 +61,8 @@
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\8.0.2\\microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\8.0.4\\microsoft.aspnetcore.identity.entityframeworkcore.8.0.4.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\microsoft.aspnetcore.identity.ui.8.0.4.nupkg.sha512",
+    "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.11\\microsoft.aspnetcore.jsonpatch.8.0.11.nupkg.sha512",
+    "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.11\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.11.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.build\\17.8.3\\microsoft.build.17.8.3.nupkg.sha512",
@@ -76,7 +78,7 @@
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.24\\microsoft.codeanalysis.razor.6.0.24.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\4.8.0\\microsoft.codeanalysis.scripting.common.4.8.0.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.8.0\\microsoft.codeanalysis.workspaces.common.4.8.0.nupkg.sha512",
-    "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
@@ -127,6 +129,7 @@
     "C:\\Users\\zorlo\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\mono.texttemplating\\2.3.1\\mono.texttemplating.2.3.1.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\zorlo\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\nuget.common\\6.11.0\\nuget.common.6.11.0.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\nuget.configuration\\6.11.0\\nuget.configuration.6.11.0.nupkg.sha512",
     "C:\\Users\\zorlo\\.nuget\\packages\\nuget.dependencyresolver.core\\6.11.0\\nuget.dependencyresolver.core.6.11.0.nupkg.sha512",

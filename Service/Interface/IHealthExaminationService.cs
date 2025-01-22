@@ -13,5 +13,7 @@ namespace Service.Interface
         List<HealthExamination> GetExamsForEmployee(Guid? employeeId);
         List<HealthExamination> GetExamsForPolyclinic(Guid? polyclinicId);
         void addExamination(ExaminationDTO examinationDTO);
+        List<HealthExamination> GetAll();
+        HealthExamination GetDetailsForExam(BaseEntity id);
     }
 }

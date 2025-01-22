@@ -37,6 +37,16 @@ namespace Service.Implementation
             _repository.Insert(healthExamination);
         }
 
+        public List<HealthExamination> GetAll()
+        {
+            return _repository.GetAll().ToList();
+        }
+
+        public HealthExamination GetDetailsForExam(BaseEntity id)
+        {
+            return _repository.GetDetails(id);
+        }
+
         public List<HealthExamination> GetExamsForEmployee(Guid? employeeId)
         {
             return _repository.GetAll().Where(x => x.EmployeeId == employeeId).ToList();
