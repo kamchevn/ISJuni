@@ -1,0 +1,32 @@
+﻿@model Domain.Domain_Models.DTO.ExaminationDTO
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ExamEmployee">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input asp-for="employeeId" class="form-control" type="hidden"/>
+            <div class="form-group">
+                <label asp-for="companyId" class="control-label"></label>
+                <input asp-for="companyId" class="form-control" disabled />
+                <span asp-validation-for="companyId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateTaken" class="control-label"></label>
+                <input asp-for="DateTaken" class="form-control" type="datetime-local"/>
+                <span asp-validation-for="DateTaken" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="polyclinicId" class="control-label"></label>
+                @Html.DropDownListFor(x => Model.polyclinicId, new SelectList(Model.Polyclinics,"Id","PolyclinicName"), new {@class="form-control"})
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

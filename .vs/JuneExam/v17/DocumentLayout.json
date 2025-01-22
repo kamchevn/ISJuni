@@ -1,0 +1,808 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zorlo\\Downloads\\JuneExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\zorlo\\downloads\\juneexam\\domain\\domain models\\dto\\examinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\dto\\examinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\views\\polyclinics\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\polyclinics\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\controllers\\polyclinicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\controllers\\polyclinicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|c:\\users\\zorlo\\downloads\\juneexam\\service\\implementation\\healthexaminationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|solutionrelative:service\\implementation\\healthexaminationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|c:\\users\\zorlo\\downloads\\juneexam\\service\\interface\\ihealthexaminationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|solutionrelative:service\\interface\\ihealthexaminationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\zorlo\\downloads\\juneexam\\domain\\domain models\\dto\\healthexamsforpolyclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\dto\\healthexamsforpolyclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|c:\\users\\zorlo\\downloads\\juneexam\\service\\implementation\\polyclinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|solutionrelative:service\\implementation\\polyclinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|c:\\users\\zorlo\\downloads\\juneexam\\service\\interface\\ipolyclinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|solutionrelative:service\\interface\\ipolyclinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\views\\employees\\nocapacity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\employees\\nocapacity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\views\\employees\\examform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\employees\\examform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\zorlo\\downloads\\juneexam\\domain\\domain models\\healthexamination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\healthexamination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\zorlo\\downloads\\juneexam\\domain\\domain models\\polyclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\polyclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\zorlo\\downloads\\juneexam\\domain\\domain models\\dto\\healthexamsforemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\dto\\healthexamsforemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B55BE-3DDD-4891-9E8A-3D615BAEAC16}|Repository\\Repository.csproj|c:\\users\\zorlo\\downloads\\juneexam\\repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B55BE-3DDD-4891-9E8A-3D615BAEAC16}|Repository\\Repository.csproj|solutionrelative:repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B55BE-3DDD-4891-9E8A-3D615BAEAC16}|Repository\\Repository.csproj|c:\\users\\zorlo\\downloads\\juneexam\\repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B55BE-3DDD-4891-9E8A-3D615BAEAC16}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\zorlo\\downloads\\juneexam\\domain\\domain models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|c:\\users\\zorlo\\downloads\\juneexam\\service\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|solutionrelative:service\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|c:\\users\\zorlo\\downloads\\juneexam\\service\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DD87F8-C406-4BC3-8CAF-4727E73D0EA8}|Service\\Service.csproj|solutionrelative:service\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\zorlo\\downloads\\juneexam\\domain\\domain models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B55BE-3DDD-4891-9E8A-3D615BAEAC16}|Repository\\Repository.csproj|c:\\users\\zorlo\\downloads\\juneexam\\repository\\migrations\\20240624125749_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B55BE-3DDD-4891-9E8A-3D615BAEAC16}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20240624125749_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B55BE-3DDD-4891-9E8A-3D615BAEAC16}|Repository\\Repository.csproj|c:\\users\\zorlo\\downloads\\juneexam\\repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B55BE-3DDD-4891-9E8A-3D615BAEAC16}|Repository\\Repository.csproj|solutionrelative:repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|c:\\users\\zorlo\\downloads\\juneexam\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B289F33B-B84C-49A4-9DB7-ECE848F7AA7B}|Web\\Web.csproj|solutionrelative:web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B55BE-3DDD-4891-9E8A-3D615BAEAC16}|Repository\\Repository.csproj|c:\\users\\zorlo\\downloads\\juneexam\\repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5B55BE-3DDD-4891-9E8A-3D615BAEAC16}|Repository\\Repository.csproj|solutionrelative:repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\zorlo\\downloads\\juneexam\\domain\\identity models\\integratedsystemsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\identity models\\integratedsystemsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\zorlo\\downloads\\juneexam\\domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|c:\\users\\zorlo\\downloads\\juneexam\\domain\\domain models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1072E4C-E021-4278-8AC5-7B9B52266A89}|Domain\\Domain.csproj|solutionrelative:domain\\domain models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthExamsForPolyclinic.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\DTO\\HealthExamsForPolyclinic.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\DTO\\HealthExamsForPolyclinic.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\DTO\\HealthExamsForPolyclinic.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\DTO\\HealthExamsForPolyclinic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:41:47.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NoCapacity.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Employees\\NoCapacity.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Employees\\NoCapacity.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Employees\\NoCapacity.cshtml",
+              "RelativeToolTip": "Web\\Views\\Employees\\NoCapacity.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T17:40:11.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExamForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Employees\\ExamForm.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Employees\\ExamForm.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Employees\\ExamForm.cshtml",
+              "RelativeToolTip": "Web\\Views\\Employees\\ExamForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T17:35:26.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthExaminationService.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Service\\Implementation\\HealthExaminationService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\HealthExaminationService.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Service\\Implementation\\HealthExaminationService.cs",
+              "RelativeToolTip": "Service\\Implementation\\HealthExaminationService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:11:07.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHealthExaminationService.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Service\\Interface\\IHealthExaminationService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IHealthExaminationService.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Service\\Interface\\IHealthExaminationService.cs",
+              "RelativeToolTip": "Service\\Interface\\IHealthExaminationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:10:23.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Web\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAgwLgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:51:28.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Web\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T17:08:16.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExaminationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\DTO\\ExaminationDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\DTO\\ExaminationDTO.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\DTO\\ExaminationDTO.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\DTO\\ExaminationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:29:14.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Polyclinics\\Details.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Polyclinics\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Polyclinics\\Details.cshtml",
+              "RelativeToolTip": "Web\\Views\\Polyclinics\\Details.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwEUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T17:44:07.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PolyclinicsController.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Controllers\\PolyclinicsController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\PolyclinicsController.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Controllers\\PolyclinicsController.cs",
+              "RelativeToolTip": "Web\\Controllers\\PolyclinicsController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:51:54.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Web\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T17:13:55.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPolyclinicService.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Service\\Interface\\IPolyclinicService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IPolyclinicService.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Service\\Interface\\IPolyclinicService.cs",
+              "RelativeToolTip": "Service\\Interface\\IPolyclinicService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:54:19.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PolyclinicService.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Service\\Implementation\\PolyclinicService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\PolyclinicService.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Service\\Implementation\\PolyclinicService.cs",
+              "RelativeToolTip": "Service\\Implementation\\PolyclinicService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:56:22.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Web\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T17:05:33.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HealthExamination.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\HealthExamination.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\HealthExamination.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\HealthExamination.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\HealthExamination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:43:58.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Polyclinic.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\Polyclinic.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\Polyclinic.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\Polyclinic.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\Polyclinic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:41:19.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:09:54.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HealthExamsForEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\DTO\\HealthExamsForEmployee.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\DTO\\HealthExamsForEmployee.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\DTO\\HealthExamsForEmployee.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\DTO\\HealthExamsForEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:09:47.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:28:27.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:27:53.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\Company.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\Company.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\Company.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:34:27.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:50:10.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Service\\Implementation\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Service\\Implementation\\EmployeeService.cs",
+              "RelativeToolTip": "Service\\Implementation\\EmployeeService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAewC8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:55:00.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:49:16.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Service\\Interface\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Service\\Interface\\IEmployeeService.cs",
+              "RelativeToolTip": "Service\\Interface\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:53:27.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "Web\\Controllers\\CompaniesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:52:36.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240624125749_Initial-Migration.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Repository\\Migrations\\20240624125749_Initial-Migration.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20240624125749_Initial-Migration.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Repository\\Migrations\\20240624125749_Initial-Migration.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20240624125749_Initial-Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:57:50.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\Employee.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:35:27.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:49:14.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:50:30.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Repository\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Repository\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Repository\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Repository\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:01:52.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T21:12:40.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:32:55.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T21:47:38.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:48:54.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Web\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Web\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T21:47:36.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:47:14.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAL4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:34:49.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:34:18.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:34:35.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:33:50.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-22T21:32:33.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Web.csproj",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "Web\\Web.csproj",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Web\\Web.csproj",
+              "RelativeToolTip": "Web\\Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T21:30:31.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:56:32.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Domain Models\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Domain Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:32:10.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IntegratedSystemsUser.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "RelativeToolTip": "Domain\\Identity Models\\IntegratedSystemsUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:31:02.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\zorlo\\Downloads\\JuneExam\\Domain\\ErrorViewModel.cs",
+              "RelativeToolTip": "Domain\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:27:58.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
